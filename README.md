@@ -13,7 +13,7 @@ The steps taking in creating the model:
 
 - **Exploratory Data Analysis**: Which involves going through the data, it's columns and it's rows checking for missing data, correlation, relationships and patterns.
 
-  **Sale Price Column Distribution**
+**Sale Price Column Distribution**
   
 ![Sale Price Column Distribution](PICTURES/Sale_Price_column_distribution.png)
 
